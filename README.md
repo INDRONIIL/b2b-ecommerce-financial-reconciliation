@@ -22,7 +22,7 @@ Instant visibility into total reconciled volume vs. at-risk capital exposure:
 
 ### 2. High-Volume Audit Trail (Color-Coded Flags)
 Automatically highlights mismatches (yellow) and missing/orphaned settlements (peach/red):
-![Audit Trail](assets/audit_trail_discrepancy.png)
+![Audit Trail](assets/audit_trail_discrepancy_1.png)
 
 ---
 
