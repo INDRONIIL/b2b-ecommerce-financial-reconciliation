@@ -18,11 +18,11 @@ Growing e-commerce and retail brands spend **15–20 hours every month** manuall
 
 ### 1. Executive Summary & Exposure Calculation
 Instant visibility into total reconciled volume vs. at-risk capital exposure:
-![Executive_Summary](assets/Executive_summary.png)
+![Executive_Summary](Assets/Executive_summary.png)
 
 ### 2. High-Volume Audit Trail (Color-Coded Flags)
 Automatically highlights mismatches (yellow) and missing/orphaned settlements (peach/red):
-![audit_trail_discrepancy_1](assets/audit_trail_discrepancy_1.png)
+![audit_trail_discrepancy_1](Assets/audit_trail_discrepancy_1.png)
 
 ---
 
