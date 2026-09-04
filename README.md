@@ -1,7 +1,7 @@
 # ⚡ Automated B2B Order & Payment Reconciliation Engine
 
 An automated financial audit pipeline that cross-references internal store orders (Shopify, WooCommerce, ERPs) against external payment gateway settlement ledgers (Stripe, Razorpay, Boleto, etc.). 
-
+readme
 It reconciles multi-thousand-row transaction files in **under 2 seconds**, flagging uncollected revenue, gateway charge discrepancies, and unrefunded canceled orders into an audit-ready Excel workbook.
 
 ---
@@ -23,10 +23,6 @@ Instant visibility into total reconciled volume vs. at-risk capital exposure:
 ### 2. High-Volume Audit Trail (Color-Coded Flags)
 Automatically highlights mismatches (yellow) and missing/orphaned settlements (peach/red):
 ![Audit Trail](assets/audit_trail_discrepancy.png)
-
-### 3. Real-World Case Study (Olist Public Dataset)
-Audited 5,000 multi-payment commercial orders; immediately caught unrefunded canceled orders and unavailable inventory liabilities:
-![Real-World Case](assets/olist_real_world_case.png)
 
 ---
 
